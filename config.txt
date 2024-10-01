@@ -1,3 +1,4 @@
 Some type of configuration for testing project.
 Need to pull thid file down.
 Adding some additional configuration
+found a couple of more config values that are needed
