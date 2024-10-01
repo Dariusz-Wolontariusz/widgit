@@ -1,1 +1,4 @@
 *.log
+id_ed25519.txt
+id_ed25519.txt.pub
+.DS_Store
